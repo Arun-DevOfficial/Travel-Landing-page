@@ -1,0 +1,34 @@
+[
+  {
+    "city": "New York",
+    "location": "Times Square",
+    "imageUrl": "https://assets.lummi.ai/assets/QmXf7mvNCfJp7pwjRt8yCZwWwFQ9Hfv5RbVoGmCaC1k65D?auto=format&w=1500",
+    "ratings": 4.9,
+    "previous": 850,
+    "current": 900
+  },
+  {
+    "city": "London",
+    "location": "Night Bit",
+    "imageUrl": "https://assets.lummi.ai/assets/QmShe5zndjMjJ9F6azeeFRwPkG97nBavf97s1PRgxhoWVq?auto=format&w=1500",
+    "ratings": 4.8,
+    "previous": 920,
+    "current": 950
+  },
+  {
+    "city": "Paris",
+    "location": "Cornivo River",
+    "imageUrl": "https://assets.lummi.ai/assets/QmYooKPqMqwKhi5kcPYTou6Y8czagM8Y5fvmh3aQkrpQxC?auto=format&w=1500",
+    "ratings": 4.7,
+    "previous": 800,
+    "current": 820
+  },
+  {
+    "city": "Tokyo",
+    "location": "Shibuya House",
+    "imageUrl": "https://assets.lummi.ai/assets/QmZBVZ7y9tyhwLM7pXvyxynK6hAS9tNn4cRxRjUFAga1Lm?auto=format&w=1500",
+    "ratings": 4.9,
+    "previous": 880,
+    "current": 910
+  }
+]

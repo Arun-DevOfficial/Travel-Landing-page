@@ -1,0 +1,27 @@
+[
+  {
+    "city": "New York,USA",
+    "location": "Times Square",
+    "imageUrl": "https://cdn.pixabay.com/photo/2021/10/11/18/58/lake-6701636_1280.jpg",
+    "ratings": 4.9,
+    "previous": 850,
+    "current": 900,
+    "Duration": "07 Days Trip"
+  },
+  {
+    "city": "London,UK",
+    "location": "Night Bit",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/10/19/12/14/train-3758523_1280.jpg",
+    "ratings": 4.8,
+    "current": 950,
+    "Duration": "10 Days Trip"
+  },
+  {
+    "city": "Tokyo",
+    "location": "Shibuya House",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/07/16/16/08/island-3542290_1280.jpg",
+    "ratings": 4.9,
+    "current": 910,
+    "Duration": "15 Days Trip"
+  }
+]
